@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://lyfestore.id",
+    url: "https://lyfestore.vercel.app",
     title: "LyfeStore - Jual Aplikasi Premium Murah & Bergaransi",
     description: "Pusat aplikasi premium termurah dan terpercaya. Upgrade akunmu sekarang dengan harga pelajar!",
     siteName: "LyfeStore",

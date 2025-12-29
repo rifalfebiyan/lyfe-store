@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
             allow: '/',
             disallow: '/private/',
         },
-        sitemap: 'https://lyfestore.id/sitemap.xml',
+        sitemap: 'https://lyfestore.vercel.app/sitemap.xml',
     }
 }
