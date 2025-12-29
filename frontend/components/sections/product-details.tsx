@@ -93,7 +93,7 @@ const productPackages: Record<number, typeof defaultPackages> = {
         },
         {
             name: "1P1U 1 Bulan",
-            price: "Rp 27.000",
+            price: "Rp 27.500",
             features: ["1 Profile 1 User", "Harga Normal Rp 33.000", "Full Garansi", "Kualitas FHD", "Tanpa VPN"],
             popular: true,
         },
@@ -105,7 +105,7 @@ const productPackages: Record<number, typeof defaultPackages> = {
         },
         {
             name: "Semi-Private 1 Bulan",
-            price: "Rp 37.000",
+            price: "Rp 37.500",
             features: ["Semi-Private", "Full Garansi", "Kualitas FHD", "Tanpa VPN"],
         },
     ],
