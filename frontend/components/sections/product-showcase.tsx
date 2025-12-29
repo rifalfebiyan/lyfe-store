@@ -29,7 +29,7 @@ const products = [
         id: 3,
         title: "Netflix Premium",
         description: "Menonton film dan TV favorit Anda dengan kualitas terbaik.",
-        price: "Rp 4.000 - Rp 37.000",
+        price: "Rp 4.000 - Rp 37.500",
         rating: 4.7,
         image: "/NETFLIX.png",
         badge: null,
