@@ -50,7 +50,7 @@ const products = [
         price: "Rp 15.000 - Rp 23.000",
         rating: 4.9,
         image: "/BStation.png",
-        badge: "Terlatis Animelovers",
+        badge: "Terlaris Animelovers",
     },
     {
         id: 6,
