@@ -13,7 +13,7 @@ const products = [
         description: "Aplikasi CapCut Pro untuk editing video dengan dengan semua fitur premium.",
         price: "Rp 12.000 - Rp 18.500",
         rating: 4.8,
-        image: "/capcut.svg",
+        image: "/capcut.png",
         badge: "Baru",
     },
     {
@@ -22,7 +22,7 @@ const products = [
         description: "Pamerkan karya kreatif Anda dengan gaya.",
         price: "Rp 3.000 - Rp 18.000",
         rating: 4.9,
-        image: "/canva.svg",
+        image: "/canva.png",
         badge: "Terlaris",
     },
     {
@@ -31,7 +31,7 @@ const products = [
         description: "Menonton film dan TV favorit Anda dengan kualitas terbaik.",
         price: "Rp 4.000 - Rp 37.000",
         rating: 4.7,
-        image: "/netflix.svg",
+        image: "/netflix.png",
         badge: null,
     },
     {
@@ -40,7 +40,7 @@ const products = [
         description: "Menonton film dan TV favorit Anda dengan kualitas terbaik.",
         price: "Rp 8.500 - Rp 20.000",
         rating: 4.6,
-        image: "/viu.svg",
+        image: "/viu.png",
         badge: null,
     },
     {
@@ -49,7 +49,7 @@ const products = [
         description: "Menonton film dan TV favorit Anda dengan kualitas terbaik.",
         price: "Rp 15.000 - Rp 23.000",
         rating: 4.9,
-        image: "/bstation.svg",
+        image: "/bstation.png",
         badge: "Terlatis Animelovers",
     },
     {
@@ -58,7 +58,7 @@ const products = [
         description: "Menonton film dan TV favorit Anda dengan kualitas terbaik.",
         price: "Rp 15.000 - Rp 37.000",
         rating: 4.8,
-        image: "/wetv.svg",
+        image: "/wetv.png",
         badge: null,
     },
     {
@@ -67,7 +67,7 @@ const products = [
         description: "Menonton film dan TV favorit Anda dengan kualitas terbaik.",
         price: "Rp 15.000 - Rp 23.000",
         rating: 4.8,
-        image: "/qiyi.svg",
+        image: "/qiyi.png",
         badge: null,
     },
 ];
