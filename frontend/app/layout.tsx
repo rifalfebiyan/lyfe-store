@@ -41,6 +41,9 @@ export const metadata: Metadata = {
     description: "Upgrade lifestyle digitalmu dengan aplikasi premium harga terjangkau. Bergaransi dan Proses Cepat.",
     creator: "@lyfestore",
   },
+  verification: {
+    google: "cjxOscfkgA4DoZ-IrDSGFJU-x1VrgfgTeDxLIBR4kbc",
+  },
   category: "technology",
 };
 
